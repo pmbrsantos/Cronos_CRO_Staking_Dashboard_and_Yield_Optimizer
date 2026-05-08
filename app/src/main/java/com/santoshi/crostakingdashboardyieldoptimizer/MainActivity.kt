@@ -194,7 +194,7 @@ fun LegalConsentDialog() {
             "5. Limitation of Liability The App is provided on an \"AS IS\" and \"AS AVAILABLE\" basis, without warranties of any kind. To the maximum extent permitted by law, the developer of the App shall not be liable for any direct, indirect, incidental, or consequential damages resulting from your use of, or inability to use, the App, including but not limited to financial losses or data inaccuracies."
     val fallbackPrivacy = "FALLBACK PRIVACY POLICY...\n\nLast Updated: April 30, 2026\n" +
             "1. Introduction\n" +
-            "Cronos (CRO) Staking Dashboard and Yield Optimizer (\"the App\") is a non-custodial portfolio tracker and decentralized application interface built for the Cronos POS network. We prioritize your digital privacy and security above all else. This policy outlines exactly what data is processed and how it is handled within the App.\n" +
+            "Cronos (CRO) Staking Dashboard & Yield Optimizer (\"the App\") is a non-custodial portfolio tracker and decentralized application interface built for the Cronos POS network. We prioritize your digital privacy and security above all else. This policy outlines exactly what data is processed and how it is handled within the App.\n" +
             "2. No Collection of Private Cryptographic Data\n" +
             "The App is built on a strict non-custodial architecture.\n" +
             "Important: We DO NOT request, collect, store, or transmit your private keys, seed phrases, passwords, or keystore files.\n" +
