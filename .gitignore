@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+/app/src/androidTest/java/com/santoshi/crostakingdashboardyieldoptimizer/ExampleInstrumentedTest.kt
+/app/src/androidTest/java/com/santoshi/crostakingdashboardyieldoptimizer/
+/app/src/test/java/com/santoshi/crostakingdashboardyieldoptimizer/ExampleUnitTest.kt
+/app/src/test/java/com/santoshi/crostakingdashboardyieldoptimizer/
